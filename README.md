@@ -1,86 +1,88 @@
-<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=200&section=header&text=Muhammad%20Uzair&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Chatbot%20Developer%20%7C%20Automation%20Specialist&descAlignY=58&descSize=18&descColor=c0d4ff" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=200&section=header&text=Muhammad%20Uzair&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Automation%20Specialist%20%7C%20Chatbot%20Developer&descAlignY=58&descSize=18&descColor=c0d4ff" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1a56db&center=true&vCenter=true&width=620&lines=Building+AI+Agents+for+US+Businesses;Custom+Chatbots+%2B+Workflow+Automation;Available+on+US+EST+Hours)](https://git.io/typing-svg)
 
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1a56db&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+Agents+that+actually+work+%F0%9F%A4%96;Custom+Chatbots+for+US+Businesses+%F0%9F%92%AC;Workflow+Automation+that+saves+hours+%E2%9A%A1;Available+on+US+EST+Hours+%F0%9F%87%BA%F0%9F%87%B8)](https://git.io/typing-svg)
+![Available](https://img.shields.io/badge/Status-Available%20for%20Projects-2ea043?style=for-the-badge&labelColor=070d1f)
+![Timezone](https://img.shields.io/badge/Timezone-US%20EST%20Hours-1a56db?style=for-the-badge&labelColor=070d1f)
+![Remote](https://img.shields.io/badge/Work-Remote%20%7C%20Global-5b8def?style=for-the-badge&labelColor=070d1f)
 
 </div>
+
+<br/>
 
 ---
 
-<!-- AVAILABILITY BADGE -->
-<div align="center">
-
-![Available](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Available%20for%20Projects-2ea043?style=for-the-badge)
-![Timezone](https://img.shields.io/badge/%F0%9F%95%90%20Timezone-US%20EST%20Hours-1a56db?style=for-the-badge)
-![Remote](https://img.shields.io/badge/%F0%9F%8C%8D%20Work-Remote%20%7C%20Global-6e40c9?style=for-the-badge)
-
-</div>
-
----
-
-## 👋 About Me
+### // ABOUT ME
 
 ```yaml
 Name        : Muhammad Uzair
-Title       : AI Engineer & Automation Specialist
-Location    : Islamabad, Pakistan 🇵🇰
-Working hrs : US Eastern Time (EST) — real overlap, fast replies
+Role        : AI Engineer and Automation Specialist
+Location    : Islamabad, Pakistan
+Working hrs : US Eastern Time — real overlap, fast replies
 Response    : Under 2 hours during EST business hours
-Status      : Open to freelance & contract projects
+Status      : Open to freelance and contract work
 ```
 
-I build **AI systems that do real work** — not demos, not prototypes.
-From autonomous AI agents to customer-facing chatbots and full workflow automation,
-I help US businesses eliminate repetitive tasks, scale faster, and ship smarter products.
+I build AI systems that do real work for businesses. Not prototypes, not demos — production-ready chatbots, AI agents, and automation pipelines that handle real traffic and real edge cases.
 
-> 💡 *If your team is wasting hours on something a well-built AI system could handle — that's exactly what I fix.*
+If your team is spending hours on something a well-built AI system could handle, that is exactly what I fix.
 
 ---
 
-## 🛠️ What I Build
+### // WHAT I BUILD
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI Agents</h3>
-      <p>Autonomous agents that plan, reason, and execute multi-step tasks connected to your tools and data — no babysitting required.</p>
-    </td>
-    <td width="50%">
-      <h3>💬 Chatbots</h3>
-      <p>Context-aware chatbots for customer support, lead capture, and internal ops — deployed on websites, WhatsApp, Slack, or your CRM.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ AI Automation</h3>
-      <p>End-to-end workflows connecting your apps, APIs, and databases with AI-powered logic — eliminating manual work entirely.</p>
-    </td>
-    <td width="50%">
-      <h3>🌐 Web Development</h3>
-      <p>Clean, fast, conversion-focused websites and web apps — built to look sharp and perform under real traffic.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI Agents**
+
+Autonomous agents that plan and execute complex multi-step tasks. Connected to your tools and data, working without constant supervision.
+
+</td>
+<td width="50%" valign="top">
+
+**Chatbots**
+
+Context-aware chatbots for customer support, lead capture, and internal operations. Deployed on websites, WhatsApp, Slack, or any CRM.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI Automation**
+
+End-to-end workflow automation connecting your apps, APIs, and databases with AI logic. Repetitive work eliminated entirely.
+
+</td>
+<td width="50%" valign="top">
+
+**Web Development**
+
+Clean, fast websites and web apps. Built to look professional and handle real traffic — whether a landing page or a full product.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🧰 Tech Stack & Tools
+### // TECH STACK
 
-**AI & Automation**
+**AI and Automation**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 ![Voiceflow](https://img.shields.io/badge/Voiceflow-4d4dff?style=flat-square&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logoColor=white)
 
 **Languages**
 
@@ -88,14 +90,14 @@ I help US businesses eliminate repetitive tasks, scale faster, and ship smarter 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Web & Backend**
+**Web and Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Databases & Cloud**
+**Databases and Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -104,64 +106,54 @@ I help US businesses eliminate repetitive tasks, scale faster, and ship smarter 
 
 ---
 
-## 🚀 Featured Projects
+### // PROJECTS
 
-### 🌍 Tripify — AI-Powered Travel Planner
-> *AI agent that plans your entire trip through conversation*
+**Tripify — AI Travel Planner**
 
-An intelligent travel planning platform that generates fully personalized itineraries and acts as a smart travel assistant. Users describe their trip and Tripify handles destination research, booking guidance, local recommendations, and real-time adjustments — all through a natural conversational interface.
+A travel planning platform where users describe their trip and an AI agent handles everything — itinerary building, destination research, booking guidance, and real-time adjustments. All through a conversational interface.
 
-**Stack:** `AI Agents` `LLM Integration` `NLP` `Conversational UI` `Travel APIs` `Full-Stack`
+`AI Agents` `LLM Integration` `NLP` `Travel APIs` `Full Stack`
 
----
+<br/>
 
-### 🍽️ DineOS — Restaurant Management System
-> *Full-featured restaurant ops platform with AI built in*
+**DineOS — Restaurant Management System**
 
-A complete restaurant management platform covering birthday party and event reservations, table management, order tracking, staff scheduling, and inventory control. Includes an AI assistant that handles customer booking requests, sends automated reminders, and generates operational reports automatically.
+A full restaurant operations platform covering birthday and event reservations, table management, order tracking, staff scheduling, and inventory. An AI assistant handles booking requests, sends reminders, and generates daily reports automatically.
 
-**Stack:** `Reservation System` `Event Booking` `AI Assistant` `Table Management` `Automated Reminders` `Full-Stack`
+`Reservation System` `Event Booking` `AI Assistant` `Order Tracking` `Full Stack`
 
 ---
 
-## 📊 GitHub Stats
+### // GITHUB STATS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Uzair-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=070d1f&title_color=5b8def&icon_color=5b8def&text_color=c0d4ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Uzair-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=070d1f&title_color=5b8def&text_color=c0d4ff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Uzair-dev&show_icons=true&hide_border=true&bg_color=070d1f&title_color=5b8def&icon_color=5b8def&text_color=c0d4ff&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Uzair-dev&layout=compact&hide_border=true&bg_color=070d1f&title_color=5b8def&text_color=c0d4ff"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Uzair-dev&theme=tokyonight&hide_border=true&background=070d1f&stroke=5b8def&ring=5b8def&fire=ff6b6b&currStreakLabel=c0d4ff&sideLabels=c0d4ff&dates=6b7280)
+![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Uzair-dev&hide_border=true&background=070d1f&stroke=1a56db&ring=5b8def&fire=5b8def&currStreakLabel=c0d4ff&sideLabels=c0d4ff&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
 ---
 
-## 🤝 Let's Work Together
+### // CONTACT
 
-I'm currently **open to freelance and contract projects** with US-based clients.
-
-Whether you need an AI agent, a customer support chatbot, a workflow automation, or a full web product — let's talk. First call is always free.
+I am open to freelance and contract work with US clients. First call is free with no obligation.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-uzairkhan761328%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=uzairkhan761328@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Uzair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-uzair-bab3ba41b/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20344%20971%202232-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923449712232)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-1a56db?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammaduzair.netlify.app)
+[![Email](https://img.shields.io/badge/Gmail-uzairkhan761328%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070d1f)](https://mail.google.com/mail/?view=cm&to=uzairkhan761328@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Uzair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070d1f)](https://www.linkedin.com/in/muhammad-uzair-bab3ba41b/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20344%20971%202232-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=070d1f)](https://wa.me/923449712232)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-1a56db?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=070d1f)](https://muhammaduzair761328.netlify.app)
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=100&section=footer&fontColor=ffffff" width="100%"/>
-
-*⭐ If you find my work useful, consider giving a star to the repo!*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db&height=100&section=footer" width="100%"/>
