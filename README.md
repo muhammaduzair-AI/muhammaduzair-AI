@@ -24,7 +24,7 @@
 Name        : Muhammad Uzair
 Role        : AI Engineer and Automation Specialist
 Location    : Islamabad, Pakistan
-Working hrs : US Eastern Time — genuine overlap, fast replies
+Working hrs : US Eastern Time genuine overlap, fast replies
 Response    : Under 2 hours during EST business hours
 Status      : Open to freelance and contract work
 ```
@@ -124,7 +124,7 @@ Clean, fast websites and web apps built to look professional and handle real tra
 <tr>
 <td width="50%" valign="top">
 
-**Tripify — AI Travel Planner**
+**Tripify: AI Travel Planner**
 
 A travel planning platform where users describe their trip and an AI agent builds the full itinerary. Handles destination research, booking guidance, local recommendations, and real-time plan adjustments through a conversational interface.
 
@@ -138,7 +138,7 @@ A travel planning platform where users describe their trip and an AI agent build
 </td>
 <td width="50%" valign="top">
 
-**DineOS — Restaurant Management System**
+**DineOS: Restaurant Management System**
 
 A full restaurant operations platform. Covers birthday and event reservations, table management, order tracking, staff scheduling, and inventory. AI assistant handles booking requests, sends reminders, and generates daily reports automatically.
 
