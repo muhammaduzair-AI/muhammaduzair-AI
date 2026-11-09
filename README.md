@@ -116,47 +116,6 @@ Clean, fast websites and web apps built to look professional and handle real tra
 
 ---
 
-### `// PROJECTS`
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Tripify: AI Travel Planner**
-
-A travel planning platform where users describe their trip and an AI agent builds the full itinerary. Handles destination research, booking guidance, local recommendations, and real-time plan adjustments through a conversational interface.
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0d1630?style=flat-square&logo=python&logoColor=5b8def)
-![LangChain](https://img.shields.io/badge/LangChain-0d1630?style=flat-square&logo=langchain&logoColor=5b8def)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1630?style=flat-square&logo=openai&logoColor=5b8def)
-![React](https://img.shields.io/badge/React-0d1630?style=flat-square&logo=react&logoColor=5b8def)
-
-</td>
-<td width="50%" valign="top">
-
-**DineOS: Restaurant Management System**
-
-A full restaurant operations platform. Covers birthday and event reservations, table management, order tracking, staff scheduling, and inventory. AI assistant handles booking requests, sends reminders, and generates daily reports automatically.
-
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1630?style=flat-square&logo=nodedotjs&logoColor=5b8def)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1630?style=flat-square&logo=mongodb&logoColor=5b8def)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1630?style=flat-square&logo=openai&logoColor=5b8def)
-![React](https://img.shields.io/badge/React-0d1630?style=flat-square&logo=react&logoColor=5b8def)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
 ### `// GITHUB STATS`
 
 <br/>
@@ -195,9 +154,7 @@ I am open to freelance and contract projects with US clients. First call is free
 
 <br/>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20344%20971%202232-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1630)](https://wa.me/923449712232)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-5b8def?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1630)](https://muhammaduzair761328.netlify.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20332%20561%202232-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1630)](https://wa.me/923325612232)
 
 </div>
 
