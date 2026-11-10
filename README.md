@@ -116,6 +116,58 @@ Clean, fast websites and web apps built to look professional and handle real tra
 
 ---
 
+### `// PROJECTS`
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Tripify: AI Travel Planner**
+
+A travel planning web app where AI builds trip itineraries for you. Includes weather forecasts, hotels, transport and tours in one place.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0d1630?style=flat-square&logo=python&logoColor=5b8def)
+![React](https://img.shields.io/badge/React-0d1630?style=flat-square&logo=react&logoColor=5b8def)
+![Node.js](https://img.shields.io/badge/Node.js-0d1630?style=flat-square&logo=nodedotjs&logoColor=5b8def)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1630?style=flat-square&logo=mongodb&logoColor=5b8def)
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1630)](https://huggingface.co/spaces/muhammad-uzair02/tripify)
+&nbsp;
+[![Source](https://img.shields.io/badge/Source-GitHub-5b8def?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1630)](https://github.com/muhammaduzair-AI/Tripify)
+
+</td>
+<td width="50%" valign="top">
+
+**IELTS Coach: Practice Platform**
+
+IELTS practice for Reading, Writing, Listening and Speaking. Built-in practice tasks, band and CEFR reports, streaks and rewards.
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1630?style=flat-square&logo=html5&logoColor=5b8def)
+![CSS3](https://img.shields.io/badge/CSS3-0d1630?style=flat-square&logo=css3&logoColor=5b8def)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1630?style=flat-square&logo=javascript&logoColor=5b8def)
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1630)](https://huggingface.co/spaces/muhammad-uzair02/ielts-coach)
+&nbsp;
+[![Source](https://img.shields.io/badge/Source-GitHub-5b8def?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1630)](https://github.com/muhammaduzair-AI/Ielts-coach)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
 ### `// GITHUB STATS`
 
 <br/>
