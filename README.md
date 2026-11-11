@@ -2,13 +2,13 @@
 
 <img src="assets/banner.svg" alt="Muhammad Uzair - AI Engineer, Chatbot Developer, Automation Specialist" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=B8860B&center=true&vCenter=true&width=640&lines=Building+AI+Agents+for+US+Businesses;Custom+Chatbots+that+handle+real+traffic;Workflow+Automation+that+saves+hours;Available+on+US+EST+Hours)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=0B8F8A&center=true&vCenter=true&width=640&lines=Building+AI+Agents+for+US+Businesses;Custom+Chatbots+that+handle+real+traffic;Workflow+Automation+that+saves+hours;Available+on+US+EST+Hours)](https://git.io/typing-svg)
 
-![Available](https://img.shields.io/badge/Status-Available%20for%20Projects-D4AF37?style=for-the-badge&labelColor=0a0806&logo=circle&logoColor=D4AF37)
+![Available](https://img.shields.io/badge/Status-Available%20for%20Projects-2FE6DE?style=for-the-badge&labelColor=0F1722&logo=circle&logoColor=2FE6DE)
 &nbsp;
-![Timezone](https://img.shields.io/badge/Timezone-US%20EST%20Hours-C99E5D?style=for-the-badge&labelColor=0a0806&logo=clockify&logoColor=C99E5D)
+![Timezone](https://img.shields.io/badge/Timezone-US%20EST%20Hours-27C9C3?style=for-the-badge&labelColor=0F1722&logo=clockify&logoColor=27C9C3)
 &nbsp;
-![Remote](https://img.shields.io/badge/Work-Remote%20%7C%20Global-8C6D4F?style=for-the-badge&labelColor=0a0806&logo=googlemeet&logoColor=8C6D4F)
+![Remote](https://img.shields.io/badge/Work-Remote%20%7C%20Global-6F819B?style=for-the-badge&labelColor=0F1722&logo=googlemeet&logoColor=6F819B)
 
 <img src="assets/stats-strip.svg" alt="Response under 2 hours, US EST working hours, global remote clients, open to new projects" width="100%"/>
 
@@ -66,11 +66,11 @@ Real solutions. Real impact.
 
 <h2 align="center">GitHub Stats</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammaduzair-AI&show_icons=true&hide_border=true&bg_color=0a0806&title_color=D4AF37&icon_color=D4AF37&text_color=E8DFD8&include_all_commits=true&count_private=true&ring_color=C99E5D"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammaduzair-AI&show_icons=true&hide_border=true&bg_color=0F1722&title_color=2FE6DE&icon_color=2FE6DE&text_color=E6EAF2&include_all_commits=true&count_private=true&ring_color=27C9C3"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaduzair-AI&layout=compact&hide_border=true&bg_color=0a0806&title_color=D4AF37&text_color=E8DFD8&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaduzair-AI&layout=compact&hide_border=true&bg_color=0F1722&title_color=2FE6DE&text_color=E6EAF2&langs_count=6"/>
 
-<img src="https://streak-stats.demolab.com?user=muhammaduzair-AI&hide_border=true&background=0a0806&stroke=8C6D4F&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8DFD8&dates=A8988B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=muhammaduzair-AI&hide_border=true&background=0F1722&stroke=6F819B&ring=2FE6DE&fire=2FE6DE&currStreakLabel=2FE6DE&sideLabels=E6EAF2&dates=98A6BB&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br/>
 
@@ -83,12 +83,12 @@ I am open to freelance and contract projects with US clients. First call is free
 <a href="https://mail.google.com/mail/?view=cm&to=uzairkhan761328@gmail.com"><img src="assets/ct-email.svg" alt="Email uzairkhan761328@gmail.com" width="48%"/></a>
 <a href="https://www.linkedin.com/in/muhammad-uzair-bab3ba41b/"><img src="assets/ct-linkedin.svg" alt="LinkedIn Muhammad Uzair" width="48%"/></a>
 <a href="https://wa.me/923325612232"><img src="assets/ct-whatsapp.svg" alt="WhatsApp +92 332 561 2232" width="48%"/></a>
-<a href="https://profound-kulfi-1ffe85.netlify.app"><img src="assets/ct-portfolio.svg" alt="Portfolio website" width="48%"/></a>
+<a href="https://resonant-griffin-66fd41.netlify.app"><img src="assets/ct-portfolio.svg" alt="Portfolio website" width="48%"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=muhammaduzair-AI&label=Profile+Views&color=D4AF37&style=flat-square&labelColor=0a0806" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=muhammaduzair-AI&label=Profile+Views&color=2FE6DE&style=flat-square&labelColor=0F1722" alt="profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37,0a0806&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2FE6DE,0F1722&height=110&section=footer" width="100%"/>
 
 </div>
