@@ -1,225 +1,128 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1630,1a56db&height=220&section=header&text=Muhammad%20Uzair&fontSize=56&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=AI%20Engineer%20%7C%20Chatbot%20Developer%20%7C%20Automation%20Specialist&descAlignY=62&descSize=17&descColor=c0d4ff&descAlign=50&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=1000&color=5b8def&center=true&vCenter=true&width=640&lines=Building+AI+Agents+for+US+Businesses;Custom+Chatbots+that+handle+real+traffic;Workflow+Automation+that+saves+hours;Available+on+US+EST+Hours)](https://git.io/typing-svg)
+<img src="assets/banner.svg" alt="Muhammad Uzair - AI Engineer, Chatbot Developer, Automation Specialist" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=D4AF37&center=true&vCenter=true&width=640&lines=Building+AI+Agents+for+US+Businesses;Custom+Chatbots+that+handle+real+traffic;Workflow+Automation+that+saves+hours;Available+on+US+EST+Hours)](https://git.io/typing-svg)
+
+![Available](https://img.shields.io/badge/Status-Available%20for%20Projects-D4AF37?style=for-the-badge&labelColor=0a0806&logo=circle&logoColor=D4AF37)
+&nbsp;
+![Timezone](https://img.shields.io/badge/Timezone-US%20EST%20Hours-C99E5D?style=for-the-badge&labelColor=0a0806&logo=clockify&logoColor=C99E5D)
+&nbsp;
+![Remote](https://img.shields.io/badge/Work-Remote%20%7C%20Global-8C6D4F?style=for-the-badge&labelColor=0a0806&logo=googlemeet&logoColor=8C6D4F)
 
 <br/>
 
-![Available](https://img.shields.io/badge/Status-Available%20for%20Projects-2ea043?style=for-the-badge&labelColor=0d1630&logo=circle&logoColor=2ea043)
-&nbsp;
-![Timezone](https://img.shields.io/badge/Timezone-US%20EST%20Hours-5b8def?style=for-the-badge&labelColor=0d1630&logo=clockify&logoColor=5b8def)
-&nbsp;
-![Remote](https://img.shields.io/badge/Work-Remote%20%7C%20Global-c0d4ff?style=for-the-badge&labelColor=0d1630&logo=googlemeet&logoColor=c0d4ff)
+<img src="assets/h-about.svg" alt="About me" width="100%"/>
+
+<img src="assets/about-card.svg" alt="Profile" width="100%"/>
 
 </div>
-
-<br/>
-
----
-
-### `// ABOUT ME`
-
-```yaml
-Name        : Muhammad Uzair
-Role        : AI Engineer and Automation Specialist
-Location    : Islamabad, Pakistan
-Working hrs : US Eastern Time genuine overlap, fast replies
-Response    : Under 2 hours during EST business hours
-Status      : Open to freelance and contract work
-```
 
 <br/>
 
 I build AI systems that do real work for businesses. Not prototypes, not demos. Production-ready chatbots, AI agents, and automation pipelines that handle real traffic and real edge cases.
 
-If your team is spending hours on something a well-built AI system could handle, that is exactly what I fix. I have worked with clients across travel, hospitality, and operations — delivering systems that run cleanly in production and are handed off with full documentation.
+If your team is spending hours on something a well-built AI system could handle, that is exactly what I fix. I have worked with clients across travel, hospitality, and operations, delivering systems that run cleanly in production and are handed off with full documentation.
 
 <br/>
 
----
+<div align="center">
 
-### `// WHAT I BUILD`
-
-<br/>
+<img src="assets/h-services.svg" alt="What I build" width="100%"/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h4>AI Agents</h4>
-Autonomous agents that plan and execute complex multi-step tasks. Connected to your tools and data, running without constant supervision.
-</td>
-<td width="50%" valign="top">
-<h4>Chatbots</h4>
-Context-aware chatbots for customer support, lead capture, and internal operations. Deployed on websites, WhatsApp, Slack, or any CRM.
-</td>
+<td><img src="assets/svc-01.svg" alt="AI Agents" width="440"/></td>
+<td><img src="assets/svc-02.svg" alt="Chatbots" width="440"/></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h4>AI Automation</h4>
-End-to-end workflow automation connecting your apps, APIs, and databases with AI-powered logic. Repetitive work eliminated entirely.
-</td>
-<td width="50%" valign="top">
-<h4>Web Development</h4>
-Clean, fast websites and web apps built to look professional and handle real traffic. From landing pages to full products.
-</td>
+<td><img src="assets/svc-03.svg" alt="AI Automation" width="440"/></td>
+<td><img src="assets/svc-04.svg" alt="Web Development" width="440"/></td>
 </tr>
 </table>
 
 <br/>
 
----
+<img src="assets/h-tech.svg" alt="Tech stack" width="100%"/>
 
-### `// TECH STACK`
+</div>
 
-<br/>
+<div align="center">
 
-**AI and Automation**
+<img src="assets/l-ai.svg" alt="AI and Automation"/>
 
-<div>
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0d1630" height="47"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=0a0806" height="47"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1630" height="47"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0a0806" height="47"/>
 &nbsp;
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=0d1630" height="47"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white&labelColor=0a0806" height="47"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white&labelColor=0d1630" height="47"/>
-</div>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white&labelColor=0a0806" height="47"/>
 
-<br/>
+<img src="assets/l-lang.svg" alt="Languages"/>
 
-**Languages**
-
-<div>
 <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
-</div>
 
-<br/>
+<img src="assets/l-web.svg" alt="Web and Backend"/>
 
-**Web and Backend**
-
-<div>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi&theme=dark" />
-</div>
 
-<br/>
+<img src="assets/l-db.svg" alt="Databases and Cloud"/>
 
-**Databases and Cloud**
-
-<div>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,aws&theme=dark" />
-</div>
 
-<br/>
+<br/><br/>
 
----
+<img src="assets/h-projects.svg" alt="Featured projects" width="100%"/>
 
-### `// PROJECTS`
+<a href="https://huggingface.co/spaces/muhammad-uzair02/tripify"><img src="assets/card-tripify.svg" alt="Tripify - AI Travel Planner" width="100%"/></a>
 
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Tripify: AI Travel Planner**
-
-A travel planning web app where AI builds trip itineraries for you. Includes weather forecasts, hotels, transport and tours in one place.
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0d1630?style=flat-square&logo=python&logoColor=5b8def)
-![React](https://img.shields.io/badge/React-0d1630?style=flat-square&logo=react&logoColor=5b8def)
-![Node.js](https://img.shields.io/badge/Node.js-0d1630?style=flat-square&logo=nodedotjs&logoColor=5b8def)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1630?style=flat-square&logo=mongodb&logoColor=5b8def)
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1630)](https://huggingface.co/spaces/muhammad-uzair02/tripify)
+<a href="https://huggingface.co/spaces/muhammad-uzair02/tripify"><img src="assets/btn-demo.svg" alt="Tripify live demo" height="44"/></a>
 &nbsp;
-[![Source](https://img.shields.io/badge/Source-GitHub-5b8def?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1630)](https://github.com/muhammaduzair-AI/Tripify)
+<a href="https://github.com/muhammaduzair-AI/Tripify"><img src="assets/btn-source.svg" alt="Tripify source code" height="44"/></a>
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
-**IELTS Coach: Practice Platform**
+<a href="https://huggingface.co/spaces/muhammad-uzair02/ielts-coach"><img src="assets/card-ielts.svg" alt="IELTS Coach - Practice Platform" width="100%"/></a>
 
-IELTS practice for Reading, Writing, Listening and Speaking. Built-in practice tasks, band and CEFR reports, streaks and rewards.
-
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-0d1630?style=flat-square&logo=html5&logoColor=5b8def)
-![CSS3](https://img.shields.io/badge/CSS3-0d1630?style=flat-square&logo=css3&logoColor=5b8def)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1630?style=flat-square&logo=javascript&logoColor=5b8def)
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1630)](https://huggingface.co/spaces/muhammad-uzair02/ielts-coach)
+<a href="https://huggingface.co/spaces/muhammad-uzair02/ielts-coach"><img src="assets/btn-demo.svg" alt="IELTS Coach live demo" height="44"/></a>
 &nbsp;
-[![Source](https://img.shields.io/badge/Source-GitHub-5b8def?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1630)](https://github.com/muhammaduzair-AI/Ielts-coach)
+<a href="https://github.com/muhammaduzair-AI/Ielts-coach"><img src="assets/btn-source.svg" alt="IELTS Coach source code" height="44"/></a>
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<br/>
+<img src="assets/h-stats.svg" alt="GitHub stats" width="100%"/>
 
----
-
-### `// GITHUB STATS`
-
-<br/>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Uzair-dev&show_icons=true&hide_border=true&bg_color=0d1630&title_color=5b8def&icon_color=5b8def&text_color=c0d4ff&include_all_commits=true&count_private=true&ring_color=1a56db"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammaduzair-AI&show_icons=true&hide_border=true&bg_color=0a0806&title_color=D4AF37&icon_color=D4AF37&text_color=E8DFD8&include_all_commits=true&count_private=true&ring_color=C99E5D"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Uzair-dev&layout=compact&hide_border=true&bg_color=0d1630&title_color=5b8def&text_color=c0d4ff&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaduzair-AI&layout=compact&hide_border=true&bg_color=0a0806&title_color=D4AF37&text_color=E8DFD8&langs_count=6"/>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=muhammaduzair-AI&hide_border=true&background=0a0806&stroke=8C6D4F&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8DFD8&dates=A8988B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
-<div align="center">
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Muhammad-Uzair-dev&hide_border=true&background=0d1630&stroke=1a56db&ring=5b8def&fire=5b8def&currStreakLabel=c0d4ff&sideLabels=c0d4ff&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
-<br/>
-
----
-
-### `// CONTACT`
-
-<br/>
+<img src="assets/h-contact.svg" alt="Contact" width="100%"/>
 
 I am open to freelance and contract projects with US clients. First call is free with no obligation.
 
 <br/>
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-uzairkhan761328%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1630)](https://mail.google.com/mail/?view=cm&to=uzairkhan761328@gmail.com)
+<a href="https://mail.google.com/mail/?view=cm&to=uzairkhan761328@gmail.com"><img src="assets/ct-email.svg" alt="Email" width="430"/></a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Uzair-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1630)](https://www.linkedin.com/in/muhammad-uzair-bab3ba41b/)
+<a href="https://www.linkedin.com/in/muhammad-uzair-bab3ba41b/"><img src="assets/ct-linkedin.svg" alt="LinkedIn" width="430"/></a>
+
+<a href="https://wa.me/923325612232"><img src="assets/ct-whatsapp.svg" alt="WhatsApp" width="430"/></a>
+&nbsp;
+<a href="https://profound-kulfi-1ffe85.netlify.app"><img src="assets/ct-portfolio.svg" alt="Portfolio" width="430"/></a>
 
 <br/>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20332%20561%202232-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1630)](https://wa.me/923325612232)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-5b8def?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1630)](https://profound-kulfi-1ffe85.netlify.app)
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=muhammaduzair-AI&label=Profile+Views&color=D4AF37&style=flat-square&labelColor=0a0806" alt="profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37,0a0806&height=110&section=footer" width="100%"/>
 
 </div>
-
-<br/>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Uzair-dev&label=Profile+Views&color=5b8def&style=flat-square&labelColor=0d1630" alt="profile views" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a56db,0d1630&height=120&section=footer" width="100%"/>
