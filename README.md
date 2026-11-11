@@ -207,6 +207,8 @@ I am open to freelance and contract projects with US clients. First call is free
 <br/>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20332%20561%202232-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1630)](https://wa.me/923325612232)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-5b8def?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1630)](https://profound-kulfi-1ffe85.netlify.app)
 
 </div>
 
